@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "77aa5e1f-5cc2-4fa5-985e-e7ebcbb535de",
+		"name": "Ticketon API Tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "42420970"
+	},
+	"item": [
+		{
+			"name": "01test",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://jsonplaceholder.typicode.com/posts"
+			},
+			"response": []
+		}
+	]
+}
